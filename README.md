@@ -1,11 +1,11 @@
 # Expanding memory in recurrent spiking networks
 
-This repository contains all the neccesary code to test or retrain the delay-based neural network presented in 
+This repository contains all the necessary code to test or retrain the delay-based neural network presented in 
 
-[Balafrej, I., Bahadi, S., Rouat, J. and Alibart, F. (2025). Enhancing temporal learning in recurrent spiking networks for neuromorphic applications.](https://arxiv.org/abs/2310.19067).
+[Balafrej, I., Bahadi, S., Rouat, J. and Alibart, F. (2025). Enhancing temporal learning in recurrent spiking networks for neuromorphic applications.](https://doi.org/10.1088/2634-4386/add293)
 
 ## Executing the code
-For each task, start by going in the corresponding directory. Each directory contains all the neccessary code to test or retrain the model on the specific task. 
+For each task, start by going to the corresponding directory. Each directory contains all the necessary code to test or retrain the model on the specific task. 
 
 All the code was tested with python version 3.8.18 and the dependencies listed in `requirements.txt`.
 
